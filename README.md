@@ -8,11 +8,16 @@ I'm currently studying at Holberton School in Toulouse, France, with a strong pa
 ### 🛠️ Technical Skills
 
 #### Programming Languages
-- **C** - System programming and low-level development
-- **Bash/Shell** - Scripting and automation
-- **SQL** - Database management and queries
-- **JavaScript** - Web development and scripting
-- **HTML/CSS** - Web design and frontend development
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hedjouj&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hedjouj&layout=compact&theme=dark)
 
 ### 🎯 Future Goals
 - Relocate to the United States

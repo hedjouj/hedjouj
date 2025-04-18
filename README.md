@@ -10,7 +10,7 @@
 </div>
 
 ### About Me
-I'm currently studying at Holberton School in Toulouse, France, with a strong passion for cybersecurity. My goal is to transition to the United States to pursue a career as a cybersecurity expert, where I can contribute to protecting digital infrastructure and combating cyber threats.
+I'm currently studying at Holberton School in Toulouse, France, with a strong passion for cybersecurity. My goal is to pursue a career as a cybersecurity expert, where I can contribute to protecting digital infrastructure and combating cyber threats.
 
 ### 🛠️ Technical Skills
 
@@ -28,7 +28,6 @@ I'm currently studying at Holberton School in Toulouse, France, with a strong pa
 </div>
 
 ### 🎯 Future Goals
-- Relocate to the United States
 - Specialize in cybersecurity
 - Contribute to securing critical infrastructure
 - Stay at the forefront of cybersecurity innovation

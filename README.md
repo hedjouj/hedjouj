@@ -11,6 +11,7 @@
 
 ### About Me
 I'm currently studying at Holberton School in Toulouse, France, with a strong passion for cybersecurity. My goal is to pursue a career as a cybersecurity expert, where I can contribute to protecting digital infrastructure and combating cyber threats.
+I am learning cybersecurity on the side, with this step by step guide to becoming a Cyber Security expert : https://roadmap.sh/cyber-security. 
 
 ### 🛠️ Technical Skills
 

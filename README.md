@@ -69,8 +69,6 @@ I am learning cybersecurity on the side, with this step by step guide to becomin
 
 <div align="center">
 
-*"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards." - Gene Spafford*
 
-*"Security is not a product, but a process." - Bruce Schneier*
 
 </div> 

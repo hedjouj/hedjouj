@@ -1,19 +1,45 @@
 <div align="center">
   
-# 👋 Hi, I'm Elhadj Reziga
+# 👋 Bonjour, je m’appelle Elhadj Reziga  
 
-## 🎓 Holberton School Student | Future Cybersecurity Expert
+## 🎓 Diplômé en informatique | Futur Administrateur Systèmes & Réseaux  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hedjouj&color=blueviolet)
 ![GitHub Followers](https://img.shields.io/github/followers/hedjouj?style=social)
 
 </div>
 
-### About Me
-I'm currently studying at Holberton School in Toulouse, France, with a strong passion for cybersecurity. My goal is to pursue a career as a cybersecurity expert, where I can contribute to protecting digital infrastructure and combating cyber threats.
-I am learning cybersecurity on the side, with this step by step guide to becoming a Cyber Security expert : https://roadmap.sh/cyber-security. 
+### À propos de moi
+J’ai récemment terminé ma formation à **Holberton School** à Toulouse et je débuterai en **janvier 2026** une formation **Administrateur Systèmes et Réseaux**.
 
-### 🛠️ Technical Skills
+Mon objectif professionnel est de construire une **base technique solide en systèmes et réseaux**, convaincu que la **cybersécurité repose avant tout sur des infrastructures bien conçues, bien administrées et bien sécurisées**.
+
+Je m’oriente donc en priorité vers des rôles d’administration systèmes et réseaux, avec une montée en compétences progressive vers la cybersécurité. J’aime comprendre comment les environnements fonctionnent réellement, les maintenir en conditions opérationnelles et les sécuriser étape par étape.
+
+
+### 🛠️ Compétences techniques
+
+### Systèmes & Infrastructures
+- Linux (Ubuntu, Debian) : utilisateurs, permissions, services, processus
+- Windows (poste de travail et notions Windows Server)
+- Virtualisation et homelab (VMware)
+- Conteneurisation : Docker (bases)
+
+### Réseaux
+- Fondamentaux TCP/IP
+- DNS, DHCP
+- SSH
+- Configuration et dépannage réseau de base
+
+### Scripting & automatisation
+- Bash / Shell : scripts d’administration
+- Python : scripts simples orientés systèmes et automatisation
+- PowerShell (notions)
+
+### Développement & outils
+- Git / GitHub
+- JavaScript, HTML, CSS
+- SQL (bases)
 
 #### Programming Languages
 <div align="center">
@@ -28,16 +54,17 @@ I am learning cybersecurity on the side, with this step by step guide to becomin
 
 </div>
 
-### 🎯 Future Goals
-- Specialize in cybersecurity
-- Contribute to securing critical infrastructure
-- Stay at the forefront of cybersecurity innovation
+### 🎯 Objectifs professionnels
+- Devenir administrateur systèmes et réseaux opérationnel
+- Monter en compétences sur la fiabilité, la supervision et la sécurité des infrastructures
+- Évoluer progressivement vers des sujets cybersécurité (systèmes, réseaux, détection)
 
-### 📚 Current Focus
-- Deepening my understanding of cybersecurity principles
-- Mastering system programming and security concepts
-- Building a strong foundation in network security
-- Developing secure coding practices
+
+### 📚  En ce moment
+- Approfondissement des bases systèmes et réseaux
+- Homelab et projets personnels
+- Scripting et automatisation
+- Bonnes pratiques de sécurité systèmes
 
 ### 🔒 Cybersecurity Interests
 <div align="center">

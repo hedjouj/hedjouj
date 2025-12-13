@@ -10,7 +10,7 @@
 </div>
 
 ### À propos de moi
-J’ai récemment terminé ma formation à **Holberton School** à Toulouse et je débuterai en **janvier 2026** une formation **Administrateur Systèmes et Réseaux**.
+Après l’obtention d’un Bac +2 Informatique – Développement Web & Mobile, j’ai choisi d’orienter mon parcours vers l’administration systèmes et réseaux, formation que je débuterai en janvier 2026.
 
 Mon objectif professionnel est de construire une **base technique solide en systèmes et réseaux**, convaincu que la **cybersécurité repose avant tout sur des infrastructures bien conçues, bien administrées et bien sécurisées**.
 

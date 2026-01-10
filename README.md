@@ -76,14 +76,6 @@ Je m’oriente donc en priorité vers des rôles d’administration systèmes et
 
 </div>
 
-### 📊 GitHub Stats
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hedjouj&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hedjouj&layout=compact&theme=dark)
-
-</div>
-
 ### 📫 Let's Connect
 <div align="center">
   

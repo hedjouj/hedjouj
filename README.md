@@ -1,12 +1,12 @@
-## Yo, moi c'est Elhadj 👋
+## Moi c'est Elhadj 👋
 
-Étudiant en Bachelor Admin Systèmes, Réseaux & Sécurité. En clair : je bidouille des serveurs, je fais tourner des VM, et j'essaie de comprendre comment tout ça tient debout avant de me lancer dans la cyber à fond.
+Étudiant en Bachelor Admin Systèmes, Réseaux & Sécurité. En clair : je bidouille des serveurs, je fais tourner des VM, et j'essaie de comprendre comment tout ça tient debout. 
 
 ### C'est quoi le plan
 
-J'ai fait un Bac+2 dev web/mobile, mais au final ce qui me kiffe vraiment c'est ce qui se passe "en dessous" : les serveurs, le réseau, l'infra. Du coup j'ai switché vers l'admin systèmes & réseaux.
+J'ai fait un Bac+2 dev web/mobile, mais au final ce qui je kiffe vraiment c'est ce qui se passe "en dessous" : les serveurs, le réseau, l'infra. Du coup j'ai switché vers l'admin systèmes & réseaux.
 
-Mon délire : avant de vouloir jouer les hackers ou les experts cybersécu, faut d'abord savoir monter et gérer une infra qui tient la route. Pas de sécurité solide sur du bancal. Donc je pose les bases sérieusement, et je monterai en cybersécurité petit à petit, étape par étape.
+Avant de vouloir jouer les hackers ou les experts cybersécu, faut d'abord savoir monter et gérer une infra qui tient la route. Pas de sécurité solide sur du bancal. Donc je pose les bases sérieusement, et je monterai en cybersécurité petit à petit, étape par étape.
 
 ### Dans ma boîte à outils
 

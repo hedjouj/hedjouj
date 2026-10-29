@@ -1,48 +1,34 @@
-## Moi c'est Elhadj 👋
+## Elhadj Messaoui
 
-Étudiant en Bachelor Admin Systèmes, Réseaux & Sécurité. En clair : je bidouille des serveurs, je fais tourner des VM, et j'essaie de comprendre comment tout ça tient debout. 
+Alternant chargé de la cybersécurité · objectif consultant cybersécurité
 
-### C'est quoi le plan
+Dans une PME industrielle (~220 salariés, 8 sites en France), je construis la sécurité du SI à partir de zéro : gouvernance, durcissement, visibilité et détection. Je garde un pied dans l'administration systèmes et réseaux, parce qu'on ne sécurise bien que ce qu'on connaît de l'intérieur.
 
-J'ai fait un Bac+2 dev web/mobile, mais au final ce qui je kiffe vraiment c'est ce qui se passe "en dessous" : les serveurs, le réseau, l'infra. Du coup j'ai switché vers l'admin systèmes & réseaux.
+En parallèle, je prépare le titre professionnel Administrateur d'Infrastructures Sécurisées (niveau 6).
 
-Avant de vouloir jouer les hackers ou les experts cybersécu, faut d'abord savoir monter et gérer une infra qui tient la route. Pas de sécurité solide sur du bancal. Donc je pose les bases sérieusement, et je monterai en cybersécurité petit à petit, étape par étape.
+### Ce que je mets en place
 
-### Dans ma boîte à outils
+- **Gouvernance** : analyse de risques EBIOS Risk Manager, PSSI, charte informatique
+- **Détection** : PoC SIEM Wazuh avec remontée des logs Active Directory, FortiGate, NAS et Microsoft 365, règles de détection et playbooks de réponse
+- **Gestion de crise** : plan de réponse à incident, fiches réflexes (rançongiciel, compromission de compte privilégié, fuite de données), exercice sur table
+- **Sécurité produit** : sécurisation des équipements connectés et de l'application client de l'entreprise
 
-**Systèmes**
-- Linux (Ubuntu, Debian) — users, permissions, services, processus, tout ça
-- Windows + un peu de Windows Server
-- Virtualisation / homelab avec VMware
-- Docker pour les bases du conteneur
+### Ce que j'ai déjà livré
 
-**Réseau**
-- TCP/IP, DNS, DHCP, SSH
-- Config et dépannage réseau basique
+- **Visibilité sur l'infra** : reprise d'une supervision arrêtée depuis 3 mois (21 hôtes morts, des milliers d'alertes ignorées). Résultat : 34 hôtes, 95 contrôles utiles, alertes lisibles et bilan quotidien. L'inventaire a révélé une cause de pannes à répétition (un DNS obsolète depuis 2 ans), des disques au bord de la saturation et un mot de passe stocké en clair.
+- **Messagerie** : DMARC, scan-to-email des copieurs passé en OAuth 2.0 (Entra ID) sur tous les sites
+- **Moindre privilège** : retrait des droits admin locaux par GPO, refonte des ACL sur plus de 230 dossiers utilisateurs (NAS Synology)
+- **Projet de certification** : architecture multi-sites sécurisée (lien FAI redondé, refonte PKI/VPN, bastion Guacamole, journalisation centralisée)
 
-**Scripts**
-- Bash pour automatiser des trucs d'admin
-- Python pour du scripting système
-- PowerShell, un peu
+### Stack
 
-**Dev & outils**
-- Git / GitHub
-- JS, HTML, CSS
-- SQL, les bases
+**Sécurité** : Wazuh, FortiGate, OpenVPN, nftables, EBIOS RM
+**Supervision** : Nagios, Checkmk
+**Systèmes** : Debian, Windows Server, Active Directory (Windows et Samba 4), Hyper-V, VMware
+**Microsoft 365** : Entra ID, Exchange Online, SharePoint Online
+**Scripts** : Bash, PowerShell, Python
 
-### Ce que je vise
+### Le cap
 
-- Devenir un vrai admin sys/réseau, opérationnel
-- Être solide sur la fiabilité, la supervision et la sécu des infras
-- Aller petit à petit vers la cybersécurité (systèmes, réseaux, détection d'incidents)
+Aujourd'hui, poser les fondations de la cybersécurité d'une entreprise réelle. Demain, accompagner d'autres organisations en tant que consultant.
 
-### Ce que je fais en ce moment
-
-- Je creuse les fondamentaux systèmes & réseaux
-- Homelab et projets perso pour tester des trucs
-- Scripting et automatisation
-- Je regarde comment sécuriser une infra correctement
-
-### On papote ?
-
-📫 Toujours partant pour échanger sur l'infra, le réseau ou la cybersécu. N'hésite pas.

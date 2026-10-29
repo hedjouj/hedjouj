@@ -4,7 +4,7 @@ Alternant chargé de la cybersécurité · objectif consultant cybersécurité
 
 Dans une PME industrielle (~220 salariés, 8 sites en France), je construis la sécurité du SI à partir de zéro : gouvernance, durcissement, visibilité et détection. Je garde un pied dans l'administration systèmes et réseaux, parce qu'on ne sécurise bien que ce qu'on connaît de l'intérieur.
 
-En parallèle, je prépare le titre professionnel Administrateur d'Infrastructures Sécurisées (niveau 6).
+En parallèle, je prépare le titre professionnel Administrateur d'Infrastructures Sécurisées (niveau 6) suivi d'un master en cybersécurité (niveau 7). 
 
 ### Ce que je mets en place
 
